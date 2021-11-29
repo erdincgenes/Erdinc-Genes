@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Uyg_1</string>
+    <string name="name">İsim :</string>
+    <string name="no">Okul Numaranız :</string>
+    <string name="eg">Erdinç Geneş</string>
+    <string name="numara">201813709007</string>
+    <string name="is">İş</string>
+    <string name="akraba">Akraba</string>
+    <string name="arkadas">Arkadaş</string>
+    <string name="gonder">Gönder</string>
+    <string name="sms">Sms Ekranı</string>
+</resources>
